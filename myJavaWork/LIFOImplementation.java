@@ -1,4 +1,3 @@
-package InterviewPrep;
 
 public class LIFOImplementation <Item> {
 

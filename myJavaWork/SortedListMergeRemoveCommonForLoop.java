@@ -1,4 +1,3 @@
-package InterviewPrep;
 
 import java.util.ArrayList;
 import java.util.List;

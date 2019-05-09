@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="myJavaWork"/>
+	<classpathentry kind="src" path="Output"/>
+	<classpathentry kind="src" path="Input"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/PayPal_Work/SME/P3 API&apos;s-PayPal Provisioning Platform/jar_files/jcip-annotations-1.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/PayPal_Work/SME/P3 API&apos;s-PayPal Provisioning Platform/jar_files/nimbus-jose-jwt-4.23.jar"/>
+	<classpathentry kind="lib" path="C:/Personal/Study/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/PayPal_Work/SME/P3 API&apos;s-PayPal Provisioning Platform/nimbus-jose-jwt-2.16.jar.zip"/>
+	<classpathentry kind="lib" path="C:/PayPal_Work/SME/P3 API&apos;s-PayPal Provisioning Platform/jar_files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/PayPal_Work/SME/P3 API&apos;s-PayPal Provisioning Platform/jar_files/json-smart-1.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

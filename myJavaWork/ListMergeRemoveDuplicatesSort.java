@@ -17,7 +17,7 @@ public class ListMergeRemoveDuplicatesSort {
 		l2.add(2);		l2.add(16);		l2.add(1);		l2.add(23);		l2.add(22);
 		l2.add(7);		l2.add(37);		l2.add(80);
 	
-		//Solution 1 -Using Set
+		//WordsWithMaxRepetition 1 -Using Set
 		Set <Integer> set= new TreeSet<>(l1);
 		set.addAll(l2);
 		System.out.println("Printing Set :"+set);
